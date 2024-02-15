@@ -16,3 +16,6 @@ Clone the repository.
 Download the dataset and organize it into train and test1 folders.
 Install the required dependencies.
 Follow the steps in the code to preprocess the data, train the model, and make predictions.
+
+
+dataset link :- https://www.kaggle.com/c/dogs-vs-cats/data
