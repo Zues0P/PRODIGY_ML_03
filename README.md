@@ -9,7 +9,7 @@ Process
 3. Model Training: Trained an SVM classifier using the preprocessed images and HOG features.
 4. Model Evaluation: Evaluated the trained model using a validation set and calculated the accuracy.
 5. Making Predictions: Used the trained model to make predictions on test images.
-6. Results: Achieved an accuracy of X% on the validation set and submitted the predictions for the test set to obtain the final accuracy.
+6. Results: Achieved an accuracy of 70% on the validation set and submitted the predictions for the test set to obtain the final accuracy.
 
 Usage
 Clone the repository.
