@@ -19,3 +19,5 @@ Follow the steps in the code to preprocess the data, train the model, and make p
 
 
 dataset link :- https://www.kaggle.com/c/dogs-vs-cats/data
+
+## note : The SVM.pkl file cannot be submitted as it more than 25 mb .
